@@ -1,6 +1,0 @@
-{
-  "auth_threshold": 0.8999999999999999,
-  "majority_threshold": 0.5,
-  "epochs": 51,
-  "batch_size": 37
-}
